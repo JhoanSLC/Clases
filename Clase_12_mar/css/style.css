@@ -1,4 +1,4 @@
-#tabla1 {
+#tabla1, #tabla2, #tabla3, #tabla4, #tabla5 {
     width: 60%;
     border: solid 3px; 
     border-collapse: collapse;
@@ -9,18 +9,10 @@ th, td {
     padding: 20px
 }
 
-#tabla2 {
-    width: 60%;
-    border-collapse: collapse;
-}
-
-#tabla3 {
-    width: 60%;
-    border-collapse: collapse;
-    
-}
-
 #tabla3.estopaque {
     width: 50%;
 }
+
+
+
 
