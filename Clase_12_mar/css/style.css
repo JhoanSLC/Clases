@@ -1,0 +1,26 @@
+#tabla1 {
+    width: 60%;
+    border: solid 3px; 
+    border-collapse: collapse;
+
+}
+th, td {
+    border: solid 3px darkorange;
+    padding: 20px
+}
+
+#tabla2 {
+    width: 60%;
+    border-collapse: collapse;
+}
+
+#tabla3 {
+    width: 60%;
+    border-collapse: collapse;
+    
+}
+
+#tabla3.estopaque {
+    width: 50%;
+}
+
